@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.track {
+  border-bottom: 1px solid gray;
+}
+.playground {
+  background: pink;
+  border: 1px solid gray;
+}
+.time {
+  margin-right: 10px;
+  text-align: center;
+}
+body {
+  padding: 40px;
+}
